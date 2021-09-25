@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java, C#, HTML, PHP, Databases,...
 - 🌱 I’m currently learning about Software Architecture
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: mail me to: samantha.enlyah@hotmail.com
+- 📫 How to reach me: samantha.enlyah@hotmail.com
 
 <!---
 SamanthaEnlyah/SamanthaEnlyah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
